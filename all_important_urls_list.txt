@@ -4,4 +4,4 @@ https://github.com/srtfile/indexmovie  [1 to 2] use for tdmb and imdb and strami
 https://github.com/srtfile/alist  anime data storgae this repo used by https://github.com/srtfile/anime-capture
 https://github.com/srtfile/player  webpage https://srtfile.github.io/player/ normal m3u8 url player
 https://github.com/srtfile/kiwi-docker/  kiwi anime stram extractor
-https://github.com/srtfile/doss  web page https://srtfile.github.io/doss/  anime stram finder using mal id and episode 
+https://github.com/srtfile/doss  web page https://srtfile.github.io/doss/  anime stram finder using mal id and episode rtrt
