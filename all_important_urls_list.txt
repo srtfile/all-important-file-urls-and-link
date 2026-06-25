@@ -5,3 +5,5 @@ https://github.com/srtfile/alist  anime data storgae this repo used by https://g
 https://github.com/srtfile/player  webpage https://srtfile.github.io/player/ normal m3u8 url player
 https://github.com/srtfile/kiwi-docker/  kiwi anime stram extractor
 https://github.com/srtfile/doss  web page https://srtfile.github.io/doss/  anime stram finder using mal id and episode rtrt
+
+https://github-maneger.onrender.com
