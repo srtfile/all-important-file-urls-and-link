@@ -1,4 +1,5 @@
 https://github.com/srtfile/anime-capture
+https://srtfile.github.io/megaplay/
 https://github.com/srtfile/frembed_movies
 https://github.com/srtfile/indexmovie  [1 to 2] use for tdmb and imdb and straming api generator auto 
 https://github.com/srtfile/alist  anime data storgae this repo used by https://github.com/srtfile/anime-capture
