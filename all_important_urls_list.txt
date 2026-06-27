@@ -7,5 +7,6 @@ https://github.com/srtfile/kiwi-docker/  kiwi anime stram extractor
 https://github.com/srtfile/doss  web page https://srtfile.github.io/doss/  anime stram finder using mal id and episode rtrt
 https://vidzee-wtf.onrender.com/ from https://github.com/srtfile/vidzee_wtf/tree/main
 https://github-maneger.onrender.com
+https://github.com/srtfile/vidking/
 https://github.com/srtfile/2embed_stream
 https://github.com/srtfile/vidrock/  this is working
